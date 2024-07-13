@@ -1,1 +1,1 @@
-# PHP-Namespaces-PRACTICE--
+# PHP-Namespaces-Practice
